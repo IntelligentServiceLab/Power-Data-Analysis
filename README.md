@@ -1,8 +1,9 @@
 # About
 
-## 1、Language
+## 1、Introduction
+Reproduction of the paper 《基于图论的含分布式电源配电网故障恢复算法》。
 
-**matlab**
+**Language：matlab**
 
 ## 2、Set up
 
